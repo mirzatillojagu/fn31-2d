@@ -133,6 +133,19 @@
 
 // Massivga oid
 
+// 2 Kalit bo‘yicha saralash:
+// const users = [
+//     { id: 3, name: "John", age: 22 },
+//     { id: 1, name: "Alisa", age: 25 },
+//     { id: 2, name: "Gru", age: 30 }
+// ];
+
+// const sortedAsc = saralash(users, 'age', 'asc');
+// console.log(sortedAsc);
+
+// const res = saralash(users, 'age', 'desc');
+// console.log(res);
+
 
 // 8 Ma'lum obyektni o‘chirish
 
